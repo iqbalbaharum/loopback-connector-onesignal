@@ -1,0 +1,27 @@
+{
+  "name": "loopback-datasource-onesignal",
+  "version": "1.0.0",
+  "description": "Loopback datasource connector for onesignal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqbalbaharum/loopback-connector-onesignal.git"
+  },
+  "keywords": [
+    "loopback",
+    "onesignal",
+    "connector"
+  ],
+  "author": "iqbalbaharum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iqbalbaharum/loopback-connector-onesignal/issues"
+  },
+  "homepage": "https://github.com/iqbalbaharum/loopback-connector-onesignal#readme",
+  "dependencies": {
+    "onesignal-node": "^3.1.5"
+  }
+}
