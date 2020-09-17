@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-onesignal",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Loopback datasource connector for onesignal",
   "main": "index.js",
   "scripts": {
